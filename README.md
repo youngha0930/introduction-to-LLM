@@ -1,3 +1,7 @@
+## Book
+
+- [25가지 문제로 배우는 LLM 입문 with 파이썬](https://product.kyobobook.co.kr/detail/S000213842136)
+
 ## Index
 
 - 실습 01. 챗GPT의 튜링 테스트
